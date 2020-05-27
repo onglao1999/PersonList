@@ -7,10 +7,10 @@ Giao diện làm từ ý tưởng danh bạn của thiết bị iphone
  
  - Màn 1:
  <p align="center">
- <img src="Man01"  width=300/>
+ <img src="Man01.png"  width=300/>
  </p>
 
 - Màn 2:
 <p align="center.png">
-<img src="Man02.pnd"  width=300/>
+<img src="Man02.png"  width=300/>
 </p>
