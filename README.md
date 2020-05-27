@@ -11,6 +11,6 @@ Giao diện làm từ ý tưởng danh bạn của thiết bị iphone
  </p>
 
 - Màn 2:
-<p align="center">
-<img src="Man02"  width=300/>
+<p align="center.png">
+<img src="Man02.pnd"  width=300/>
 </p>
